@@ -1,0 +1,31 @@
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.exe.config
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.exe
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.xml
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.formkonfigurasiserver.resources
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.exe
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.xml
+C:\Users\USER\AppData\Local\Temporary Projects\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.exe.config
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.exe
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.xml
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.exe
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\bin\Debug\ProyekLaundryUAS.xml
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.formkonfigurasiserver.resources
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.vbproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.formmasteruser.resources
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.formmasterpaket.resources
+C:\Users\USER\documents\visual studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.formmasterpelanggan.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.formsetuplogin.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.MenuUtama.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.formtransaksiorder.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.frmsetupcetak.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.frmtransaksipembayaran.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.frmlaporandetil.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\ProyekLaundryUAS\ProyekLaundryUAS\obj\x86\Debug\ProyekLaundryUAS.frmlaporan.resources
